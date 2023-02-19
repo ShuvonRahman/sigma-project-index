@@ -1,0 +1,93 @@
+
+.photo{
+    background-image: url(Products/6.Fabrication\ and\ Workshop\ Items.jpg) ;
+    width: 1170px;
+    height: 550px;
+    display:flex;
+    
+    align-items: center;
+
+}
+.point{
+    list-style: none;
+}
+.color{
+
+    background-color: rgb(160, 121, 95);
+    
+
+    
+}
+.logo{
+    
+    width: 350px;
+    margin-top: px;
+}
+.icon{
+  width: 230px;
+}
+.icon2{
+    width: 110px;
+}
+.colour{
+    background-color: rgb(46, 46, 133);
+    
+  
+    
+    
+}
+
+.colour2{
+    background-color: rgb(38, 38, 110);
+    height: 60px;
+    text-align:center;
+    padding-top: 10px;
+
+    
+    
+}
+p{
+
+    font-size: 20px;
+}
+h5{
+    font-size: 25px;
+}
+a{
+    font-size: 20px;
+}
+.navber1{
+height: ;
+
+
+}
+.ser{
+    background-color: orange;
+    
+}
+/* .text1{
+ display: flex;
+ justify-content: start;
+ padding: 70px;
+
+ 
+ 
+} */
+.colour3{
+font-size: 30px;
+
+}
+.logo{
+    width: 300px;
+}
+.popu{
+    width: 250px;
+    display: block;
+    padding-left: 130px;
+
+}
+.textn{
+    color: dodgerblue;
+    font-size: large;
+}
+
